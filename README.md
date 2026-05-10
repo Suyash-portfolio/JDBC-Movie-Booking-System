@@ -29,14 +29,23 @@ This project demonstrates the practical implementation of:
 # 🚀 Features
 
 ✅ User Login System
+
 ✅ Interactive Dashboard
+
 ✅ Language Selection Option
+
 ✅ Movie Selection Interface
+
 ✅ Time Slot Selection
+
 ✅ Seat Booking System
+
 ✅ JDBC Database Connectivity
+
 ✅ MySQL Integration
+
 ✅ User-Friendly GUI
+
 ✅ Real-Time Seat Availability Handling
 
 ---
@@ -214,10 +223,6 @@ Pune, Maharashtra, India
 * Java
 * JDBC
 * MySQL
-* HTML
-* CSS
-* JavaScript
-* Python
 
 ---
 
