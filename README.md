@@ -1,7 +1,5 @@
 # JDBC-Movie-Booking-System
 
-# 🎬 JDBC Movie Booking System
-
 A desktop-based Movie Booking System developed using **Java Swing** and **JDBC** for database connectivity. This project allows users to log in, select movies, choose show timings, book seats, and manage movie ticket reservations through an interactive graphical user interface.
 
 ---
