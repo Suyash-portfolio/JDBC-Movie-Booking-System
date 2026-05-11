@@ -80,6 +80,7 @@ JDBC-Movie-Booking-System/
 ├── lib/
 │   └── mysql-connector-j-9.6.0.jar
 │
+├── ER-diagram.jpeg
 ├── JDBC SQL Code.txt
 ├── MovieBookingSystem.pptx.pdf
 └── README.md
